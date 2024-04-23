@@ -18,5 +18,6 @@ files {
     'html/index.js',
     'html/index.css',
     'html/reset.css',
-    'html/img/*.*'
+    'html/img/*.*',
+    'html/spin_sound.mp3'
 }

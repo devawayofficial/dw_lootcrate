@@ -11,12 +11,16 @@ $(function () {
     let items = {};
     
     function goRoll(skinimg) {
+        // Play spin sound
+        document.getElementById('spinSound').play();
+
         $('.raffle-roller-container').css({
             transition: "all 8s cubic-bezier(.08,.6,0,1)"
         });
         $('#CardNumber78').css({
             "background-image": "url("+skinimg+")"
         });
+
         setTimeout(function() {
             $('#CardNumber78').addClass('winning-item');
             $('#rolled').html(skinimg);
