@@ -1,5 +1,6 @@
 ## Description
 This resource lets you create usable crates, that will give the player items that you associate with them.
+
 (Minor fork of: (https://github.com/JoeSzymkowiczFiveM/qb-lootcrate) I mainly modified this just to add a little more flare by incorporating the sound of a spinning wheel. May provide future updates.)
 
 ## Features
@@ -9,13 +10,13 @@ This resource lets you create usable crates, that will give the player items tha
 * Randomized, server-sided item selection and validation
 
 ## Credit
-- [JoeSzymkowiczFiveM] (https://github.com/JoeSzymkowiczFiveM/qb-lootcrate) I copied 100% of this and added some sound for immersion also removed potential copyrighted images.
+- [JoeSzymkowiczFiveM](https://github.com/JoeSzymkowiczFiveM/qb-lootcrate) I copied 100% of this and added some sound for immersion also removed potential copyrighted images.
 - [Dimka Zheleznov](https://codepen.io/zheleznov) for the UI code and posting it to codepen. Wherever you are, hats off to you. I absolutely copied near-100% to make this work.
 
 ## Dependencies
 - [qb-core](https://github.com/qbcore-framework/qb-core)
 
-## Preview
+## New Preview
 https://www.youtube.com/watch?v=1I88Y7o465Y
 
 ## Shared items example
