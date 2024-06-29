@@ -13,7 +13,8 @@ RegisterNUICallback("close", function(data, cb)
     cb('ok')
 end)
 
-RegisterNetEvent("qb-lootcrate:client:open", function(case, random)
+RegisterNetEvent("dw_lootcrate:client:open", function(case, random)
+    print("Triggered: dw_lootcrate:client:open successfully")
     SetNuiFocus(true, true)
     if not loadedConfig then
         loadedConfig = true
