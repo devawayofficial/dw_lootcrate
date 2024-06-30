@@ -31,7 +31,7 @@ This resource lets you create usable crates, that will give the player items tha
 
 
 ## New Preview
-https://www.youtube.com/watch?v=1I88Y7o465Y
+[![dw_lootcrate](https://img.youtube.com/vi/1I88Y7o465Y/0.jpg)](https://www.youtube.com/watch?v=1I88Y7o465Y "dw_lootcrate")
 
 ## Shared items example
 ```lua
